@@ -2,7 +2,7 @@
 
 ## Contacts ##
 * **Phone:** +9005596640
-* **Email:** udalovtraining@gmail.com
+* **Email:** udalovtraining@gmail.com 
 * **GitHub:** UdalovMV
 * **Discord:** UdalovMV#3787
 
