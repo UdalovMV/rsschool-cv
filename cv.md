@@ -29,4 +29,4 @@ alert(result);
 Vologda State University. Faculty of Industrial Management
 
 ## English
-Me level: А1
+Me level: А1 
