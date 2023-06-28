@@ -12,7 +12,7 @@ I work in a construction company as an engineer. I want to change my occupation.
 ## Skills
 * HTML
 * JavaScript
-* CSS
+* CSS 
 * Git
 
 ## Code example
