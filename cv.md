@@ -3,7 +3,7 @@
 ## Contacts ##
 * **Phone:** +9005596640
 * **Email:** udalovtraining@gmail.com
-* **GitHub:** serzhan-ussenov
+* **GitHub:** UdalovMV
 * **Discord:** UdalovMV#3787
 
 ## About me
